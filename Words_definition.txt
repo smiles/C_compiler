@@ -1,9 +1,12 @@
 A.
+	- assembly language(ASM) = Any low-level programming language in which there is a correspondence between the code and the machine code instructions. Assembly code is converted to executable machine code by a utility program called "assembler".
+	- assembler = Creates "object code" by translating a combination of mnemonics and syntax for operations and addressing modes into their numerical equivalents. This representation typically includes an operation code (opcode) as well as other control bits and data. 
 ---------------------------------------------------------------------------------------------
 B.
+	- bytecodes(portable code, p-code) = A instruction set designed to be efficiently executed by a interpreter.
 ---------------------------------------------------------------------------------------------
 C.
-	- compiler = is a program that can translate one programming language to another programming language.
+	- compiler = Is a program that can translate one programming language to another programming language.
 ---------------------------------------------------------------------------------------------
 D.
 ---------------------------------------------------------------------------------------------
@@ -16,9 +19,10 @@ G.
 H.
 ---------------------------------------------------------------------------------------------
 I. 
-	- interpreter = is a program that directly executes instructions from a programming language without the need for compiling.
+	- interpreter = Is a program that directly executes instructions from a programming language without the need for compiling.
 ---------------------------------------------------------------------------------------------
 J.
+	- just-in-time(JIT) = Compiles code at run time then executes. 
 ---------------------------------------------------------------------------------------------
 K.
 ---------------------------------------------------------------------------------------------
@@ -29,6 +33,7 @@ M.
 N.
 ---------------------------------------------------------------------------------------------
 P.
+	- preprocessor = Takes in input to produce output used in another program.
 ---------------------------------------------------------------------------------------------
 Q.
 ---------------------------------------------------------------------------------------------
